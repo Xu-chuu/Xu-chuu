@@ -1,4 +1,4 @@
-## Hola a todos! :D
+## Hola a todos! 
 Mi nombre es Gerson Steven Fernandez Ricalde
 
 Soy estudiante de ingeniería en sistemas
